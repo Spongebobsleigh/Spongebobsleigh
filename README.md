@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spongebobsleigh
-- 👀 I’m interested in Spongebobsleigh
-- 🌱 I’m currently learning Spongebobsleigh
+- 👀 I’m interested in VR/AR
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on Spongebobsleigh
 - 📫 How to reach me Spongebobsleigh
 
