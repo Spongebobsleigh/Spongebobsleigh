@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Spongebobsleigh
 - 👀 I’m interested in VR/AR
 - 🌱 I’m currently learning programming
-- 💞️ I am aiming to commit once a day
+- 💞️ My goal is to read code every day
 - 📫 How to reach me shimoshunmail@gmail.com
 <!---
 Spongebobsleigh/Spongebobsleigh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
