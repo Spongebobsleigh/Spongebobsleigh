@@ -22,7 +22,7 @@
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/Spongebobsleigh/Spongebobsleigh/output/snake.svg" alt="Snake animation" />
+
 
 
 <!---
